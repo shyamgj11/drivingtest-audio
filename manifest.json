@@ -1,0 +1,86 @@
+{
+  "version": 1,
+  "voice": "af_heart",
+  "files": {
+    "1.1.01-001": {
+      "q_hash": "3d31959f2168a348",
+      "q_size": 36217,
+      "q_dur": 12.63,
+      "hint_hash": "1a1ee2829f4f67f3",
+      "hint_size": 123219,
+      "hint_dur": 43.8
+    },
+    "1.1.01-002": {
+      "q_hash": "8915683b66c3a1c5",
+      "q_size": 32526,
+      "q_dur": 11.37,
+      "hint_hash": "e5326a4d77ee98bb",
+      "hint_size": 58647,
+      "hint_dur": 20.78
+    },
+    "1.1.01-003": {
+      "q_hash": "3583f7114954c7bd",
+      "q_size": 65508,
+      "q_dur": 23.25,
+      "hint_hash": "f9b60b951e7dff24",
+      "hint_size": 39231,
+      "hint_dur": 13.85
+    },
+    "1.1.01-004": {
+      "q_hash": "2ae1f345307e5560",
+      "q_size": 45465,
+      "q_dur": 16.0,
+      "hint_hash": "565a8a6e4ca6e9cb",
+      "hint_size": 70246,
+      "hint_dur": 25.02
+    },
+    "1.1.01-101": {
+      "q_hash": "0b4ce8db913ae97b",
+      "q_size": 47228,
+      "q_dur": 16.75,
+      "hint_hash": "ee886318e532486c",
+      "hint_size": 68656,
+      "hint_dur": 24.36
+    },
+    "1.1.01-102": {
+      "q_hash": "a8572e33a171ff53",
+      "q_size": 41717,
+      "q_dur": 14.66,
+      "hint_hash": "6a1c7f31efa6faa3",
+      "hint_size": 91881,
+      "hint_dur": 32.75
+    },
+    "1.1.01-103": {
+      "q_hash": "59feec3298606314",
+      "q_size": 47750,
+      "q_dur": 16.85,
+      "hint_hash": "0b694167c5fdd3f9",
+      "hint_size": 59335,
+      "hint_dur": 21.08
+    },
+    "1.1.01-104": {
+      "q_hash": "c3b5bc7130b85f0b",
+      "q_size": 25289,
+      "q_dur": 8.79,
+      "hint_hash": "fc0672822562851c",
+      "hint_size": 92123,
+      "hint_dur": 32.75
+    },
+    "1.1.01-107": {
+      "q_hash": "5b2e4e2b29048950",
+      "q_size": 28366,
+      "q_dur": 9.92,
+      "hint_hash": "cc39258fb36cd7de",
+      "hint_size": 44509,
+      "hint_dur": 15.66
+    },
+    "1.1.01-108": {
+      "q_hash": "3f7304ac234344cf",
+      "q_size": 26662,
+      "q_dur": 9.39,
+      "hint_hash": "9a2d63522f73360e",
+      "hint_size": 41174,
+      "hint_dur": 14.46
+    }
+  }
+}

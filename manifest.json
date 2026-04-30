@@ -5,82 +5,522 @@
     "1.1.01-001": {
       "q_hash": "3d31959f2168a348",
       "q_size": 36217,
-      "q_dur": 12.63,
+      "q_dur": 0.0,
       "hint_hash": "1a1ee2829f4f67f3",
       "hint_size": 123219,
-      "hint_dur": 43.8
+      "hint_dur": 0.0
     },
     "1.1.01-002": {
       "q_hash": "8915683b66c3a1c5",
       "q_size": 32526,
-      "q_dur": 11.37,
+      "q_dur": 0.0,
       "hint_hash": "e5326a4d77ee98bb",
       "hint_size": 58647,
-      "hint_dur": 20.78
+      "hint_dur": 0.0
     },
     "1.1.01-003": {
       "q_hash": "3583f7114954c7bd",
       "q_size": 65508,
-      "q_dur": 23.25,
+      "q_dur": 0.0,
       "hint_hash": "f9b60b951e7dff24",
       "hint_size": 39231,
-      "hint_dur": 13.85
+      "hint_dur": 0.0
     },
     "1.1.01-004": {
       "q_hash": "2ae1f345307e5560",
       "q_size": 45465,
-      "q_dur": 16.0,
+      "q_dur": 0.0,
       "hint_hash": "565a8a6e4ca6e9cb",
       "hint_size": 70246,
-      "hint_dur": 25.02
+      "hint_dur": 0.0
     },
     "1.1.01-101": {
       "q_hash": "0b4ce8db913ae97b",
       "q_size": 47228,
-      "q_dur": 16.75,
+      "q_dur": 0.0,
       "hint_hash": "ee886318e532486c",
       "hint_size": 68656,
-      "hint_dur": 24.36
+      "hint_dur": 0.0
     },
     "1.1.01-102": {
       "q_hash": "a8572e33a171ff53",
       "q_size": 41717,
-      "q_dur": 14.66,
+      "q_dur": 0.0,
       "hint_hash": "6a1c7f31efa6faa3",
       "hint_size": 91881,
-      "hint_dur": 32.75
+      "hint_dur": 0.0
     },
     "1.1.01-103": {
       "q_hash": "59feec3298606314",
       "q_size": 47750,
-      "q_dur": 16.85,
+      "q_dur": 0.0,
       "hint_hash": "0b694167c5fdd3f9",
       "hint_size": 59335,
-      "hint_dur": 21.08
+      "hint_dur": 0.0
     },
     "1.1.01-104": {
       "q_hash": "c3b5bc7130b85f0b",
       "q_size": 25289,
-      "q_dur": 8.79,
+      "q_dur": 0.0,
       "hint_hash": "fc0672822562851c",
       "hint_size": 92123,
-      "hint_dur": 32.75
+      "hint_dur": 0.0
     },
     "1.1.01-107": {
       "q_hash": "5b2e4e2b29048950",
       "q_size": 28366,
-      "q_dur": 9.92,
+      "q_dur": 0.0,
       "hint_hash": "cc39258fb36cd7de",
       "hint_size": 44509,
-      "hint_dur": 15.66
+      "hint_dur": 0.0
     },
     "1.1.01-108": {
       "q_hash": "3f7304ac234344cf",
       "q_size": 26662,
-      "q_dur": 9.39,
+      "q_dur": 0.0,
       "hint_hash": "9a2d63522f73360e",
       "hint_size": 41174,
-      "hint_dur": 14.46
+      "hint_dur": 0.0
+    },
+    "1.1.01-109": {
+      "q_hash": "fda5c2e58c70a367",
+      "q_size": 34618,
+      "q_dur": 0.0,
+      "hint_hash": "8a7568fe70fc3078",
+      "hint_size": 38480,
+      "hint_dur": 0.0
+    },
+    "1.1.01-110": {
+      "q_hash": "cb00b844013bc060",
+      "q_size": 25380,
+      "q_dur": 0.0,
+      "hint_hash": "3185e747df789f55",
+      "hint_size": 33800,
+      "hint_dur": 0.0
+    },
+    "1.1.01-111": {
+      "q_hash": "522a6712a8280f30",
+      "q_size": 34905,
+      "q_dur": 0.0,
+      "hint_hash": "d7afb2e2609bfe7b",
+      "hint_size": 86477,
+      "hint_dur": 0.0
+    },
+    "1.1.01-112": {
+      "q_hash": "92456312aea1af95",
+      "q_size": 22523,
+      "q_dur": 0.0,
+      "hint_hash": "bd1a4ff83bfc2e13",
+      "hint_size": 43979,
+      "hint_dur": 0.0
+    },
+    "1.1.01-113": {
+      "q_hash": "476e30b7b71d2368",
+      "q_size": 38552,
+      "q_dur": 0.0,
+      "hint_hash": "894a62abac421e58",
+      "hint_size": 39322,
+      "hint_dur": 0.0
+    },
+    "1.1.02-004": {
+      "q_hash": "0e9b696f57f4e70a",
+      "q_size": 38467,
+      "q_dur": 0.0,
+      "hint_hash": "8495b049abc47c51",
+      "hint_size": 34168,
+      "hint_dur": 0.0
+    },
+    "1.1.02-005": {
+      "q_hash": "d514704243ecb5fb",
+      "q_size": 59168,
+      "q_dur": 0.0,
+      "hint_hash": "75948affc93bb0ff",
+      "hint_size": 47393,
+      "hint_dur": 0.0
+    },
+    "1.1.02-009-B": {
+      "q_hash": "63729be874eeb109",
+      "q_size": 44438,
+      "q_dur": 0.0,
+      "hint_hash": "c3904472cb7a7697",
+      "hint_size": 47215,
+      "hint_dur": 0.0
+    },
+    "1.1.02-022": {
+      "q_hash": "2b38480b5b015d88",
+      "q_size": 55179,
+      "q_dur": 0.0,
+      "hint_hash": "7dd78e556d8640a6",
+      "hint_size": 59489,
+      "hint_dur": 0.0
+    },
+    "1.1.02-023": {
+      "q_hash": "c5c5bec37736795e",
+      "q_size": 46257,
+      "q_dur": 0.0,
+      "hint_hash": "12b3e2facbe49c15",
+      "hint_size": 61385,
+      "hint_dur": 0.0
+    },
+    "1.1.02-024-B": {
+      "q_hash": "4aaee6c68012be0e",
+      "q_size": 63060,
+      "q_dur": 0.0,
+      "hint_hash": "c2292c029401b23f",
+      "hint_size": 54327,
+      "hint_dur": 0.0
+    },
+    "1.1.02-026-B": {
+      "q_hash": "7429bfc414e9f4ec",
+      "q_size": 46364,
+      "q_dur": 0.0,
+      "hint_hash": "9fb03f9b55932570",
+      "hint_size": 68134,
+      "hint_dur": 0.0
+    },
+    "1.1.02-027": {
+      "q_hash": "897277f07bc4fb0e",
+      "q_size": 36837,
+      "q_dur": 0.0,
+      "hint_hash": "fd1c029e4f06dc36",
+      "hint_size": 48187,
+      "hint_dur": 0.0
+    },
+    "1.1.02-028": {
+      "q_hash": "dd2bc0daa4abf187",
+      "q_size": 58717,
+      "q_dur": 0.0,
+      "hint_hash": "1fec0a39c5f14c2a",
+      "hint_size": 67205,
+      "hint_dur": 0.0
+    },
+    "1.1.02-029": {
+      "q_hash": "52543a51fc82691b",
+      "q_size": 49080,
+      "q_dur": 0.0,
+      "hint_hash": "12340bd05b348e07",
+      "hint_size": 46009,
+      "hint_dur": 0.0
+    },
+    "1.1.02-032": {
+      "q_hash": "5dbc6b458361ced6",
+      "q_size": 18576,
+      "q_dur": 0.0,
+      "hint_hash": "c1715597952da39c",
+      "hint_size": 39441,
+      "hint_dur": 0.0
+    },
+    "1.1.02-036": {
+      "q_hash": "ea5deac9939fd29c",
+      "q_size": 21274,
+      "q_dur": 0.0,
+      "hint_hash": "dbf0cadc85ec0c64",
+      "hint_size": 53908,
+      "hint_dur": 0.0
+    },
+    "1.1.02-037": {
+      "q_hash": "8404631259340c30",
+      "q_size": 35409,
+      "q_dur": 0.0,
+      "hint_hash": "06f5f18e97e9db6d",
+      "hint_size": 68198,
+      "hint_dur": 0.0
+    },
+    "1.1.02-038-M": {
+      "q_hash": "6d9030fd4c919c91",
+      "q_size": 25039,
+      "q_dur": 0.0,
+      "hint_hash": "89cd47594d2bf707",
+      "hint_size": 45260,
+      "hint_dur": 0.0
+    },
+    "1.1.02-039-M": {
+      "q_hash": "54c500777a2884c4",
+      "q_size": 24058,
+      "q_dur": 0.0,
+      "hint_hash": "3bd1b9c8d0406c48",
+      "hint_size": 24236,
+      "hint_dur": 0.0
+    },
+    "1.1.02-040-M": {
+      "q_hash": "561c46ebb90438ad",
+      "q_size": 25504,
+      "q_dur": 0.0,
+      "hint_hash": "0d3a1d4c728003c3",
+      "hint_size": 62806,
+      "hint_dur": 0.0
+    },
+    "1.1.02-041-M": {
+      "q_hash": "e3877dd033a1b7a7",
+      "q_size": 33856,
+      "q_dur": 0.0,
+      "hint_hash": "6505b5c2ed152fe5",
+      "hint_size": 57694,
+      "hint_dur": 0.0
+    },
+    "1.1.02-042-M": {
+      "q_hash": "7981d50ae91a1ddf",
+      "q_size": 25445,
+      "q_dur": 0.0,
+      "hint_hash": "7e15b495181fe0e7",
+      "hint_size": 42206,
+      "hint_dur": 0.0
+    },
+    "1.1.02-043-M": {
+      "q_hash": "fc57706e6e260522",
+      "q_size": 26444,
+      "q_dur": 0.0,
+      "hint_hash": "025407c7f87b760d",
+      "hint_size": 33799,
+      "hint_dur": 0.0
+    },
+    "1.1.02-046-M": {
+      "q_hash": "af087b8e3f3215f9",
+      "q_size": 36975,
+      "q_dur": 0.0,
+      "hint_hash": "76b0b0b06074844c",
+      "hint_size": 38371,
+      "hint_dur": 0.0
+    },
+    "1.1.02-048-M": {
+      "q_hash": "68276be75b0c4c54",
+      "q_size": 25538,
+      "q_dur": 0.0,
+      "hint_hash": "b11e7016e6f54464",
+      "hint_size": 18905,
+      "hint_dur": 0.0
+    },
+    "1.1.02-049": {
+      "q_hash": "6e4468b7c3223943",
+      "q_size": 31232,
+      "q_dur": 0.0,
+      "hint_hash": "449de4f8a8282bd1",
+      "hint_size": 37080,
+      "hint_dur": 0.0
+    },
+    "1.1.02-050-M": {
+      "q_hash": "618890f8e79c2d7b",
+      "q_size": 38607,
+      "q_dur": 0.0,
+      "hint_hash": "85a2c32012b426dd",
+      "hint_size": 38569,
+      "hint_dur": 0.0
+    },
+    "1.1.02-051-M": {
+      "q_hash": "25f602216ea28c78",
+      "q_size": 49301,
+      "q_dur": 0.0,
+      "hint_hash": "7ae20b0831020531",
+      "hint_size": 42345,
+      "hint_dur": 0.0
+    },
+    "1.1.02-052": {
+      "q_hash": "1e087a4c5326cc4e",
+      "q_size": 54031,
+      "q_dur": 0.0,
+      "hint_hash": "ecff1f277f08a096",
+      "hint_size": 143121,
+      "hint_dur": 0.0
+    },
+    "1.1.02-107": {
+      "q_hash": "9ebc5ff1a5e64f88",
+      "q_size": 57543,
+      "q_dur": 0.0,
+      "hint_hash": "1298b1726b53937f",
+      "hint_size": 43188,
+      "hint_dur": 0.0
+    },
+    "1.1.02-108-B": {
+      "q_hash": "436d107e91ee2e31",
+      "q_size": 36610,
+      "q_dur": 0.0,
+      "hint_hash": "9e9c801bd608aefa",
+      "hint_size": 64022,
+      "hint_dur": 0.0
+    },
+    "1.1.02-109-B": {
+      "q_hash": "68815ce9cef0f4ed",
+      "q_size": 53806,
+      "q_dur": 0.0,
+      "hint_hash": "f016eb55acf01bf4",
+      "hint_size": 48434,
+      "hint_dur": 0.0
+    },
+    "1.1.02-110-B": {
+      "q_hash": "bb50b93c7db0e993",
+      "q_size": 55192,
+      "q_dur": 0.0,
+      "hint_hash": "b6136eb8ead9343e",
+      "hint_size": 65807,
+      "hint_dur": 0.0
+    },
+    "1.1.02-112": {
+      "q_hash": "a1d9bf45bfd4c0a7",
+      "q_size": 29658,
+      "q_dur": 0.0,
+      "hint_hash": "d99d594f817e098a",
+      "hint_size": 36145,
+      "hint_dur": 0.0
+    },
+    "1.1.02-113": {
+      "q_hash": "4b4993edf0afcb03",
+      "q_size": 44096,
+      "q_dur": 0.0,
+      "hint_hash": "a1cbdae273d6a5fa",
+      "hint_size": 27384,
+      "hint_dur": 0.0
+    },
+    "1.1.02-114": {
+      "q_hash": "9cea2f9e51b2d1bd",
+      "q_size": 41674,
+      "q_dur": 0.0,
+      "hint_hash": "c38b6fd3ee86f68c",
+      "hint_size": 29769,
+      "hint_dur": 0.0
+    },
+    "1.1.02-115": {
+      "q_hash": "e6bd3dcbed0b19d8",
+      "q_size": 52509,
+      "q_dur": 0.0,
+      "hint_hash": "1624135b4498e2b3",
+      "hint_size": 68376,
+      "hint_dur": 0.0
+    },
+    "1.1.02-116": {
+      "q_hash": "8d6dcda081609378",
+      "q_size": 34661,
+      "q_dur": 0.0,
+      "hint_hash": "7d849fa1a317c42b",
+      "hint_size": 20669,
+      "hint_dur": 0.0
+    },
+    "1.1.02-117": {
+      "q_hash": "f3799a7532995aa0",
+      "q_size": 19539,
+      "q_dur": 0.0,
+      "hint_hash": "e5321ce4defbb6b2",
+      "hint_size": 36585,
+      "hint_dur": 0.0
+    },
+    "1.1.02-119": {
+      "q_hash": "7b590776046cb3d7",
+      "q_size": 23712,
+      "q_dur": 0.0,
+      "hint_hash": "4e56e9cd965c9f9a",
+      "hint_size": 65663,
+      "hint_dur": 0.0
+    },
+    "1.1.02-120-M": {
+      "q_hash": "d2d48826c9a88e5f",
+      "q_size": 46584,
+      "q_dur": 0.0,
+      "hint_hash": "aabfed9d4c4bee3f",
+      "hint_size": 64249,
+      "hint_dur": 0.0
+    },
+    "1.1.02-121-M": {
+      "q_hash": "5454e2190629c79a",
+      "q_size": 50222,
+      "q_dur": 0.0,
+      "hint_hash": "46eb227f36db14c0",
+      "hint_size": 61856,
+      "hint_dur": 0.0
+    },
+    "1.1.02-122": {
+      "q_hash": "ae3cb8e000a02255",
+      "q_size": 45449,
+      "q_dur": 0.0,
+      "hint_hash": "ba90f995433d4910",
+      "hint_size": 64417,
+      "hint_dur": 0.0
+    },
+    "1.1.02-123-M": {
+      "q_hash": "d07aa6f8718cd628",
+      "q_size": 47500,
+      "q_dur": 0.0,
+      "hint_hash": "d636fd5c38c36f89",
+      "hint_size": 59243,
+      "hint_dur": 0.0
+    },
+    "1.1.02-124-M": {
+      "q_hash": "96a2117d615f99fc",
+      "q_size": 25991,
+      "q_dur": 0.0,
+      "hint_hash": "e7ac7d28bf9f3b36",
+      "hint_size": 50083,
+      "hint_dur": 0.0
+    },
+    "1.1.02-125-M": {
+      "q_hash": "24dcae35024c843c",
+      "q_size": 32866,
+      "q_dur": 0.0,
+      "hint_hash": "fc65d3b37d83cf74",
+      "hint_size": 46541,
+      "hint_dur": 0.0
+    },
+    "1.1.02-126": {
+      "q_hash": "6fd5a22da977ee2b",
+      "q_size": 44875,
+      "q_dur": 0.0,
+      "hint_hash": "8ebbfa287324276c",
+      "hint_size": 35011,
+      "hint_dur": 0.0
+    },
+    "1.1.02-127": {
+      "q_hash": "66ab730f50f115c2",
+      "q_size": 42464,
+      "q_dur": 0.0,
+      "hint_hash": "5626e7c4228053fd",
+      "hint_size": 73969,
+      "hint_dur": 0.0
+    },
+    "1.1.02-128": {
+      "q_hash": "0e88c8cc791b541c",
+      "q_size": 41047,
+      "q_dur": 0.0,
+      "hint_hash": "a773c5525e1f085b",
+      "hint_size": 74888,
+      "hint_dur": 0.0
+    },
+    "1.1.02-129": {
+      "q_hash": "19cc2ae16807adfe",
+      "q_size": 39197,
+      "q_dur": 0.0,
+      "hint_hash": "7ed96407342ebc0c",
+      "hint_size": 63939,
+      "hint_dur": 0.0
+    },
+    "1.1.02-130-M": {
+      "q_hash": "1d763266a523e4eb",
+      "q_size": 39037,
+      "q_dur": 0.0,
+      "hint_hash": "2b72ee4a07996283",
+      "hint_size": 53943,
+      "hint_dur": 0.0
+    },
+    "1.1.02-131": {
+      "q_hash": "b8a6ac9586d11070",
+      "q_size": 33202,
+      "q_dur": 0.0,
+      "hint_hash": "3d4cbe8d12a21638",
+      "hint_size": 57190,
+      "hint_dur": 0.0
+    },
+    "1.1.02-132": {
+      "q_hash": "011e1daf4c4ccb3e",
+      "q_size": 43578,
+      "q_dur": 0.0,
+      "hint_hash": "3f3927517f061386",
+      "hint_size": 46892,
+      "hint_dur": 0.0
+    },
+    "1.1.02-133": {
+      "q_hash": "7059b3842d7b2557",
+      "q_size": 51218,
+      "q_dur": 0.0,
+      "hint_hash": "",
+      "hint_size": 0,
+      "hint_dur": 0.0
     }
   }
 }

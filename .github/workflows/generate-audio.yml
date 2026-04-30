@@ -75,16 +75,16 @@ jobs:
         id: kokoro-cache
         uses: actions/cache@v4
         with:
-          path: .kokoro-cache
+          path: .github/.kokoro-cache
           key: kokoro-model-v1.0
 
       - name: Download Kokoro model (cache miss only)
         if: steps.kokoro-cache.outputs.cache-hit != 'true'
         run: |
-          mkdir -p .kokoro-cache
-          curl -sSL --retry 3 -o .kokoro-cache/kokoro-v1.0.onnx "$KOKORO_MODEL_URL"
-          curl -sSL --retry 3 -o .kokoro-cache/voices-v1.0.bin "$KOKORO_VOICES_URL"
-          ls -lh .kokoro-cache
+          mkdir -p .github/.kokoro-cache
+          curl -sSL --retry 3 -o .github/.kokoro-cache/kokoro-v1.0.onnx "$KOKORO_MODEL_URL"
+          curl -sSL --retry 3 -o .github/.kokoro-cache/voices-v1.0.bin "$KOKORO_VOICES_URL"
+          ls -lh .github/.kokoro-cache
 
       - name: Generate shard ${{ matrix.shard }}
         run: |
